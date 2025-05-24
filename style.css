@@ -1,0 +1,6 @@
+.card-text-formatada {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: justify;
+  line-height: 1.6;
+}
